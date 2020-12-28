@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "968538946409",
+    "project_id": "facerecognitionattendanc-1ef92",
+    "storage_bucket": "facerecognitionattendanc-1ef92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968538946409:android:1c4da7f3dc9b765436dbf8",
+        "android_client_info": {
+          "package_name": "com.example.face_recognition_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968538946409-37no72086nfdq02lu6frvvr8bh7m96fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCkCrd3WbKqdjUMgGO9QSvedZaPWoxOgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968538946409-37no72086nfdq02lu6frvvr8bh7m96fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968538946409:android:cde7e78da344bf4836dbf8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_image_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968538946409-37no72086nfdq02lu6frvvr8bh7m96fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCkCrd3WbKqdjUMgGO9QSvedZaPWoxOgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968538946409-37no72086nfdq02lu6frvvr8bh7m96fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
